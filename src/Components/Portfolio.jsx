@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Developer 3.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Female Developer ";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Blog Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is my Blog Website where i talk about my experiences and learnings related to tech.",
+    url: "https://1404shivani.github.io/Final_Project/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My App",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is my app website.",
+    url: "https://mega.nz/folder/xUkixKQT#vg_PlUqoZWenHboIAeJkww",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " This is my Linkedin site ",
+    url: "https://www.linkedin.com/in/shivani-kumari-248124178/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Twitter",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This is my twitter where i share my thoughts ",
+    url: "https://twitter.com/Shivani1404_",
   },
 ];
 
