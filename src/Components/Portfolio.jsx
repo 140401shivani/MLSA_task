@@ -34,13 +34,13 @@ const projectList = [
     title: "My Blog Website",
     description:
       "This is my Blog Website where i talk about my experiences and learnings related to tech.",
-    url: "https://1404shivani.github.io/Final_Project/",
+    url: "https://monalika.hashnode.dev/?source=top_nav_blog_home",
   },
   {
-    title: "My App",
+    title: "My Leetcode",
     description:
-      "This is my app website.",
-    url: "https://mega.nz/folder/xUkixKQT#vg_PlUqoZWenHboIAeJkww",
+      "This is my Leetcode website.",
+    url: "https://leetcode.com/1404shivani_/",
   },
   {
     title: "My Resume site",
